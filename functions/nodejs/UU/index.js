@@ -14,5 +14,27 @@ module.exports = async function (params, context, logger) {
   // logger.info(`${new Date()} 函数开始执行`);
 
   // 在这里补充业务代码
-  logger.info("jgq")
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
+  logger.info("ABC");
 }
